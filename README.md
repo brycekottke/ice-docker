@@ -17,7 +17,8 @@
 
 ##### 2. Docker Setup
 
-- Open docker-compose.yml add the AWS Access Key ID and Secret Key: `vi docker-compose.yml`
+- Open docker-compose.yml add the AWS Access Key ID and Secret Key 
+- `vi docker-compose.yml`
       ```
       ice:
         build: ice
