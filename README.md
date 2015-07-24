@@ -31,7 +31,7 @@
       ```
 
 - Open ice.properties and configure a basic setup by updating the following 
-- `vi ice/assets/ice.properties` 
+- **`vi ice/assets/ice.properties`**
       ```
       # s3 bucket name that detailed billing uses
       ice.billing_s3bucketname=
