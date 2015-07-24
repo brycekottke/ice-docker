@@ -9,6 +9,7 @@
 ##### 1. ELB Setup
 
 - Create an Amazon ELB with the following listeners for HTTPS authentication
+
       ```
       LB Protocol   LB Port   Instance Protocol   Instance Port   Cipher   SSL Certificate
       HTTP          80        HTTP                80              N/A        N/A
