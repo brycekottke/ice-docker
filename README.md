@@ -13,14 +13,8 @@
       **LB Protocol   LB Port   Instance Protocol   Instance Port   Cipher   SSL Certificate**
       HTTP          80        HTTP                80              N/A        N/A
       HTTPS         443       HTTP                80              N/A        your-ssl-cert
-<<<<<<< HEAD
       ```
 ######2. Docker Setup
-=======
-     
-
-### Docker Setup
->>>>>>> 5a6ae1a06b41473572800ac81f1527527cc19e23
 
  - Open docker-compose.yml add the AWS Access Key ID and Secret Key: `vi docker-compose.yml`
       ```
